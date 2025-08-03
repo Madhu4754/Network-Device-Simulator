@@ -1,0 +1,6 @@
+{
+  "device_id": "switch-01",
+  "device_type": "router",
+  "ip_address": "127.0.0.1",
+  "port": 8080
+}
